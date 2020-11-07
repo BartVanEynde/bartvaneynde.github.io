@@ -2,7 +2,7 @@
 
 * html code by @ [Creative Theme](https://startbootstrap.com/themes/creative/)
 * [creative-theme-jekyll](https://github.com/volny/creative-theme-jekyll) - [volny.github.io/creative-theme-jekyll](https://volny.github.io/creative-theme-jekyll/)
-* 
+* [creative-theme-jekyll-new](https://github.com/vvalchev/creative-theme-jekyll-new)
 
 # Bart - Who Am I & what do I want with this
 * I'm a hobby photographer and I want to make a portfolio site with this to convince people to work with me...
