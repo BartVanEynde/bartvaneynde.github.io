@@ -85,11 +85,11 @@ sections:
         url: https://startbootstrap.com/themes/creative/
         class: btn-light
 
-  - type: portfolio.html
-    # this section has always ID 'portfolio'
-    #section_id: portfolio
-    #background_style: bg-dark
-    projects:
+- type: portfolio.html
+  # this section has always ID 'portfolio'
+  #section_id: portfolio
+  #background_style: bg-dark
+  projects:
       - title: Project 4
         text: This is a very short project description.
         icon: 4.jpg
