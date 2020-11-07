@@ -27,6 +27,7 @@
 * [sidey-jekyll](https://sidey-jekyll.netlify.app/search) Jekyll search in post/categories/tags
 * [jekyll-theme-yat](https://github.com/jeffreytse/jekyll-theme-yat) - multi lang idea - prev/next (keep within category?) - titles ToC in _post
 * [friday-theme](https://sfreytag.github.io/friday-theme/list/posts.html#images) tags javascript search
+* ([GitHub Pages](https://pages.github.com/versions/))
 
 # Disclamer
 * I am not a native English peaker
